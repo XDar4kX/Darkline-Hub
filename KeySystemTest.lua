@@ -1,7 +1,7 @@
 -- velvet key system test
 -- gate flow before the real UI loads
 
-local Velvet = loadstring(game:HttpGet("https://raw.githubusercontent.com/DexCodeSX/Velvet/main/Library.lua"))()
+local Velvet = loadstring(game:HttpGet("https://raw.githubusercontent.com/XDar4kX/Darkline-Hub/refs/heads/main/Library.lua"))()
 
 local ok = Velvet:KeySystem({
     Title = "Velvet",

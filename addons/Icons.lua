@@ -3,7 +3,7 @@
     ~1700 icons embedded. Smart search + fuzzy match.
 
     Usage:
-        local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/DexCodeSX/Velvet/main/addons/Icons.lua"))()
+        local Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/XDar4kX/Darkline-Hub/refs/heads/main/addons/Icons.lua"))()
 
         -- exact
         local id = Icons("sword")                       -- rbxassetid://... or nil

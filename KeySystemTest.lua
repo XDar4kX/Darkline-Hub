@@ -6,10 +6,10 @@ local Velvet = loadstring(game:HttpGet("https://raw.githubusercontent.com/XDar4k
 local ok = Velvet:KeySystem({
     Title = "Velvet",
     SubTitle = "premium access required",
-    Keys = { "velvet-2026", "let-me-in", "test-key" },
-    SaveKey = "VelvetKeyTest.txt",
+    Keys = { "velvet-2026", "testing", "3" },
+    SaveKey = "AuthKey.txt",
     MaxAttempts = 5,
-    GetKeyLink = "https://discord.gg/velvet",
+    GetKeyLink = "https://discord.gg/DarklineHub",
     GetKeyText = "Get Key from Discord",
     Callback = function(success)
         if success then print("[velvet] key passed, loading UI...") end
